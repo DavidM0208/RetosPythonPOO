@@ -1,1 +1,0 @@
-El encapsulamiento es un mecanismo que permite ocultar los detalles de implementación de un objeto y exponer solo una interfaz pública para interactuar con él. En Python, se utiliza el prefijo de doble guion bajo para marcar un atributo o método como privado y que solo pueda ser accedido desde dentro de la clase.
